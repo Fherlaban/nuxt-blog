@@ -1,6 +1,6 @@
 # nuxt-blog
 
-> My practice with Nuxt
+> My Nuxt.js practice with a blog
 
 ## Build Setup
 
